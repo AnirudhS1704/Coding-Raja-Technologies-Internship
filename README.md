@@ -3,7 +3,7 @@
 
 **Task 1:**  
   **Dataset used:**  Sentiment140 dataset
-  **Dataset link:**  https://www.kaggle.com/datasets/kazanova/sentiment140/data 
+  **Dataset link:**  https://www.kaggle.com/datasets/kazanova/sentiment140/data \n
 
   **Accuracy:**  80%
 
