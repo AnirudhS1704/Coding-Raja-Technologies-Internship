@@ -12,7 +12,7 @@
   &ensp;**Dataset link:**  https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification<br />
   &ensp;The dataset has 20 classes but I have trained for only 10 classes to improve training speed and accuracy of the prediction.<br />
   
- &ensp;**Accuracy:**
+ &ensp;**Accuracy:**<br />
    &ensp;&ensp;**Using CNN:**  68%<br />
    &ensp;&ensp;**Using Transfer learning:**  88%  (Used InceptionResNetV2 pre-trained model)<br />
     
